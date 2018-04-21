@@ -1,0 +1,1 @@
+{"uuid":"4967ca6d-ef01-4048-ab4b-6bd40dc9e846","name":"org.iit.mmp.admin.tests.AdminTests.tearDown","description":"","start":1524192587187,"stop":1524192588449,"children":["96df723f-91d5-4963-96fb-ce9aec88e9e6"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1524192587188,"stop":1524192588448}]}

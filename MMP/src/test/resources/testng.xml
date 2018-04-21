@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <!--  <test name="PatientTests" verbose="5">
+  <parameter name="browserType" value="CH"/>
+  <parameter name="url" value="http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/" />
+  <parameter name="adminUrl" value="http://96.84.175.78/MMP-Release2-Admin-Build.2.1.000/login.php" />
+  <parameter name="adminUsername" value="Thomas@123" />
+  <parameter name="adminPassword" value="Thomas@111" />
+  
+    <classes>
+      <class name="org.iit.mmp.patient.tests.PatientTests"/>
+    </classes>
+  </test> Test -->
+  
+  <test name="AdminTests" verbose="5">
+  <parameter name="browserType" value="CH"/>
+  <parameter name="url" value="http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/" />
+  <parameter name="adminUrl" value="http://96.84.175.78/MMP-Release2-Admin-Build.2.1.000/login.php" />
+  <parameter name="adminUsername" value="Thomas@123" />
+  <parameter name="adminPassword" value="Thomas@111" />
+  <parameter name="ssn" value="667990098" />
+  <parameter name="patFName" value="Roger" />
+  
+  <parameter name="doctorName" value="Dr.Charlie" />
+  <parameter name="appointmentDate" value="January/10/2019" />
+  <parameter name="appointmentTime" value="12Pm" />
+  <parameter name="symptoms" value="Red and Watery Eyes" />
+     
+ <parameter name="expTime" value="11AM"/>
+ <parameter name="doctorName" value="Dr.Smith"/>
+ <parameter name="doj" value="April/28/2018"/>
+ <parameter name="symptoms" value="Typhoid fever"/>
+ 
+ <parameter name="prescriptionname" value="RogerPres"/>
+ <parameter name="presdescription" value="Prescription for Roger"/>
+ <parameter name="reportName" value="Roger's Report"/>
+ <parameter name="reportDesc" value="Roger is good to go office"/>
+ <parameter name="reportFile" value="C:\Users\sarada\Documents\picture.docx"/>
+  
+  
+  
+    <classes>
+      <class name="org.iit.mmp.admin.tests.AdminTests">
+      <!-- <methods>      
+      <include name ="validateSubmitClaim"></include>      
+      </methods> -->
+      </class>      
+      
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

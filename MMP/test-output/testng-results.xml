@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" total="5" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="141985" started-at="2018-04-20T18:52:05Z" finished-at="2018-04-20T18:54:27Z">
+    <groups>
+    </groups>
+    <test name="AdminTests" duration-ms="141985" started-at="2018-04-20T18:52:05Z" finished-at="2018-04-20T18:54:27Z">
+      <class name="org.iit.mmp.admin.tests.AdminTests">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setup" is-config="true" duration-ms="14556" started-at="2018-04-20T14:52:05Z" finished-at="2018-04-20T14:52:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setUp" is-config="true" duration-ms="10893" started-at="2018-04-20T14:52:20Z" description="Validate Admin Login to the Application" finished-at="2018-04-20T14:52:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Thomas@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Thomas@111]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://96.84.175.78/MMP-Release2-Admin-Build.2.1.000/login.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="validateSubmitClaimTest(java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="validateSubmitClaimTest" duration-ms="16262" started-at="2018-04-20T14:52:31Z" description="Schedule an appointment with Doctor" finished-at="2018-04-20T14:52:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[667990098]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roger]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Unable to Submit the Claim]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Unable to Submit the Claim
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.iit.mmp.admin.tests.AdminTests.validateSubmitClaimTest(AdminTests.java:116)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSubmitClaimTest -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setUp" is-config="true" duration-ms="1650" started-at="2018-04-20T14:52:47Z" description="Validate Admin Login to the Application" finished-at="2018-04-20T14:52:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Thomas@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Thomas@111]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://96.84.175.78/MMP-Release2-Admin-Build.2.1.000/login.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createPatientvisitTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="createPatientvisitTest" duration-ms="45557" started-at="2018-04-20T14:52:49Z" description="Create Patient Visit" finished-at="2018-04-20T14:53:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[667990098]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roger]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[April/28/2018]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[11AM]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Dr.Smith]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Typhoid fever]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPatientvisitTest -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setUp" is-config="true" duration-ms="1658" started-at="2018-04-20T14:53:34Z" description="Validate Admin Login to the Application" finished-at="2018-04-20T14:53:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Thomas@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Thomas@111]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://96.84.175.78/MMP-Release2-Admin-Build.2.1.000/login.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addPresdescriptionTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="addPresdescriptionTest" duration-ms="7680" started-at="2018-04-20T14:53:36Z" description="Add Prescription to the patient" finished-at="2018-04-20T14:53:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RogerPres]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Prescription for Roger]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[667990098]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Roger]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPresdescriptionTest -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setUp" is-config="true" duration-ms="1374" started-at="2018-04-20T14:53:44Z" description="Validate Admin Login to the Application" finished-at="2018-04-20T14:53:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Thomas@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Thomas@111]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://96.84.175.78/MMP-Release2-Admin-Build.2.1.000/login.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createFeeMethodTest(java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="createFeeMethodTest" duration-ms="9303" started-at="2018-04-20T14:53:45Z" finished-at="2018-04-20T14:53:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[667990098]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roger]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFeeMethodTest -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setUp" is-config="true" duration-ms="1632" started-at="2018-04-20T14:53:54Z" description="Validate Admin Login to the Application" finished-at="2018-04-20T14:53:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Thomas@123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Thomas@111]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://96.84.175.78/MMP-Release2-Admin-Build.2.1.000/login.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="reportPageMethodTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="reportPageMethodTest" duration-ms="31181" started-at="2018-04-20T14:53:56Z" finished-at="2018-04-20T14:54:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Roger's Report]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roger is good to go office]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[667990098]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Roger]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C:\Users\sarada\Documents\picture.docx]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"id","selector":"app_date"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-L0JOL9N', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\sarada\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: a330c23f64a84bf4d8470ad86563e608
+*** Element info: {Using=id, value=app_date}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"app_date"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-L0JOL9N', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\sarada\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: a330c23f64a84bf4d8470ad86563e608
+*** Element info: {Using=id, value=app_date}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:371)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:417)
+	at org.openqa.selenium.By$ById.findElement(By.java:218)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.iit.mmp.admin.pages.ReportsPage.reportPageMethod(ReportsPage.java:26)
+	at org.iit.mmp.admin.tests.AdminTests.reportPageMethodTest(AdminTests.java:247)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportPageMethodTest -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="closeApp" is-config="true" duration-ms="6" started-at="2018-04-20T14:54:27Z" finished-at="2018-04-20T14:54:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- org.iit.mmp.admin.tests.AdminTests -->
+    </test> <!-- AdminTests -->
+  </suite> <!-- Suite -->
+</testng-results>

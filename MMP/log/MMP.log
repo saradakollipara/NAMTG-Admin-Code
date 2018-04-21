@@ -1,0 +1,247 @@
+2018-03-24 05:25:14 INFO  HomePage.java:21 - Setting the Driver Instance
+2018-03-24 05:29:56 INFO  PatientTests.java:31 - ##########Test Execution Started#########
+2018-03-24 05:29:58 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-03-31 04:52:33 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-03-31 04:52:35 INFO  HomePage.java:43 - patient Button Xpath.//*[@id='navigation']/li[2]/a
+                                     2018-03-31 04:52:35 INFO  HomePage.java:44 - Clicking on the patient Button
+                                     2018-03-31 04:52:42 INFO  HomePage.java:47 - Clicking on the patient Register Button
+                                     2018-03-31 04:57:59 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-03-31 04:58:01 INFO  HomePage.java:43 - patient Button Xpath.//*[@id='navigation']/li[2]/a
+                                     2018-03-31 04:58:01 INFO  HomePage.java:44 - Clicking on the patient Button
+                                     2018-03-31 04:58:08 INFO  HomePage.java:47 - Clicking on the patient Register Button
+                                     2018-03-31 05:01:51 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-03-31 05:01:53 INFO  HomePage.java:43 - patient Button Xpath.//*[@id='navigation']/li[2]/a
+                                     2018-03-31 05:01:53 INFO  HomePage.java:44 - Clicking on the patient Button
+                                     2018-03-31 05:02:00 INFO  HomePage.java:47 - Clicking on the patient Register Button
+                                     2018-03-31 05:04:02 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-03-31 05:04:04 INFO  HomePage.java:43 - patient Button Xpath.//*[@id='navigation']/li[2]/a
+                                     2018-03-31 05:04:04 INFO  HomePage.java:44 - Clicking on the patient Button
+                                     2018-03-31 05:04:11 INFO  HomePage.java:47 - Clicking on the patient Register Button
+                                     2018-03-31 05:16:32 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-03-31 05:19:05 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-03-31 05:21:55 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-03-31 05:32:12 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-07 08:33:20 INFO  AdminTests.java:32 - Browser Opened Successfully
+                                     2018-04-07 08:33:30 INFO  AdminTests.java:41 - Admin Login Successful
+                                     2018-04-07 08:33:31 INFO  AdminTests.java:44 - Clicking on Patients Tab
+                                     2018-04-07 08:33:31 INFO  AdminTests.java:47 - Search By SSN :: 667990098
+                                     2018-04-07 08:33:31 INFO  AdminTests.java:50 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 08:34:56 INFO  AdminTests.java:32 - Browser Opened Successfully
+                                     2018-04-07 08:35:06 INFO  AdminTests.java:41 - Admin Login Successful
+                                     2018-04-07 08:35:06 INFO  AdminTests.java:44 - Clicking on Patients Tab
+                                     2018-04-07 08:35:06 INFO  AdminTests.java:47 - Search By SSN :: 667990098
+                                     2018-04-07 08:35:07 INFO  AdminTests.java:50 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 09:49:51 INFO  AdminTests.java:31 - Browser Opened Successfully
+                                     2018-04-07 09:50:01 INFO  AdminTests.java:40 - Admin Login Successful
+                                     2018-04-07 09:50:02 INFO  AdminTests.java:43 - Clicking on Patients Tab
+                                     2018-04-07 09:50:02 INFO  AdminTests.java:46 - Search By SSN :: 667990098
+                                     2018-04-07 09:50:02 INFO  AdminTests.java:49 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 10:15:00 INFO  AdminTests.java:31 - Browser Opened Successfully
+                                     2018-04-07 10:15:10 INFO  AdminTests.java:40 - Admin Login Successful
+                                     2018-04-07 10:15:10 INFO  AdminTests.java:43 - Clicking on Patients Tab
+                                     2018-04-07 10:15:10 INFO  AdminTests.java:46 - Search By SSN :: 667990098
+                                     2018-04-07 10:15:11 INFO  AdminTests.java:49 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 10:15:13 INFO  AdminTests.java:52 - Scheduled appointment for Patient FirtNameRoger
+                                     2018-04-07 18:40:50 INFO  AdminTests.java:31 - Browser Opened Successfully
+                                     2018-04-07 18:41:00 INFO  AdminTests.java:40 - Admin Login Successful
+                                     2018-04-07 18:41:02 INFO  AdminTests.java:43 - Clicking on Patients Tab
+                                     2018-04-07 18:41:02 INFO  AdminTests.java:46 - Search By SSN :: 667990098
+                                     2018-04-07 18:41:03 INFO  AdminTests.java:49 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 18:51:03 INFO  AdminTests.java:31 - Browser Opened Successfully
+                                     2018-04-07 18:51:14 INFO  AdminTests.java:40 - Admin Login Successful
+                                     2018-04-07 18:51:14 INFO  AdminTests.java:43 - Clicking on Patients Tab
+                                     2018-04-07 18:51:15 INFO  AdminTests.java:46 - Search By SSN :: 667990098
+                                     2018-04-07 18:51:15 INFO  AdminTests.java:49 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 19:00:11 INFO  AdminTests.java:31 - Browser Opened Successfully
+                                     2018-04-07 19:00:22 INFO  AdminTests.java:40 - Admin Login Successful
+                                     2018-04-07 19:00:23 INFO  AdminTests.java:43 - Clicking on Patients Tab
+                                     2018-04-07 19:00:23 INFO  AdminTests.java:46 - Search By SSN :: 667990098
+                                     2018-04-07 19:00:24 INFO  AdminTests.java:49 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 19:04:43 INFO  AdminTests.java:31 - Browser Opened Successfully
+                                     2018-04-07 19:04:53 INFO  AdminTests.java:40 - Admin Login Successful
+                                     2018-04-07 19:04:54 INFO  AdminTests.java:43 - Clicking on Patients Tab
+                                     2018-04-07 19:04:54 INFO  AdminTests.java:46 - Search By SSN :: 667990098
+                                     2018-04-07 19:04:55 INFO  AdminTests.java:49 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 19:25:19 INFO  AdminTests.java:31 - Browser Opened Successfully
+                                     2018-04-07 19:25:30 INFO  AdminTests.java:40 - Admin Login Successful
+                                     2018-04-07 19:25:31 INFO  AdminTests.java:43 - Clicking on Patients Tab
+                                     2018-04-07 19:25:31 INFO  AdminTests.java:46 - Search By SSN :: 667990098
+                                     2018-04-07 19:25:32 INFO  AdminTests.java:49 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 19:30:16 INFO  AdminTests.java:31 - Browser Opened Successfully
+                                     2018-04-07 19:30:27 INFO  AdminTests.java:40 - Admin Login Successful
+                                     2018-04-07 19:30:28 INFO  AdminTests.java:43 - Clicking on Patients Tab
+                                     2018-04-07 19:30:28 INFO  AdminTests.java:46 - Search By SSN :: 667990098
+                                     2018-04-07 19:30:29 INFO  AdminTests.java:49 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 19:38:20 INFO  AdminTests.java:31 - Browser Opened Successfully
+                                     2018-04-07 19:38:31 INFO  AdminTests.java:40 - Admin Login Successful
+                                     2018-04-07 19:38:32 INFO  AdminTests.java:43 - Clicking on Patients Tab
+                                     2018-04-07 19:38:32 INFO  AdminTests.java:46 - Search By SSN :: 667990098
+                                     2018-04-07 19:38:32 INFO  AdminTests.java:49 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 19:50:43 INFO  AdminTests.java:31 - Browser Opened Successfully
+                                     2018-04-07 19:50:53 INFO  AdminTests.java:40 - Admin Login Successful
+                                     2018-04-07 19:50:54 INFO  AdminTests.java:43 - Clicking on Patients Tab
+                                     2018-04-07 19:50:55 INFO  AdminTests.java:46 - Search By SSN :: 667990098
+                                     2018-04-07 19:50:56 INFO  AdminTests.java:49 - Clicking the Patient FirtNameRoger
+                                     2018-04-07 19:51:40 INFO  AdminTests.java:52 - Scheduled appointment for Patient FirtNameRoger
+                                     2018-04-08 22:30:27 INFO  AdminTests.java:34 - Browser Opened Successfully
+                                     2018-04-08 22:30:37 INFO  AdminTests.java:43 - Admin Login Successful
+                                     2018-04-08 22:30:37 INFO  AdminTests.java:46 - Clicking on Patients Tab
+                                     2018-04-08 22:30:37 INFO  AdminTests.java:49 - Search By SSN :: 667990098
+                                     2018-04-08 22:30:38 INFO  AdminTests.java:52 - Clicking the Patient FirtName :: Roger
+                                     2018-04-08 22:31:19 INFO  AdminTests.java:55 - Scheduled appointment for Patient FirtName :: Roger
+                                     2018-04-08 23:09:50 INFO  AdminTests.java:34 - Browser Opened Successfully
+                                     2018-04-08 23:10:00 INFO  AdminTests.java:43 - Admin Login Successful
+                                     2018-04-08 23:10:01 INFO  AdminTests.java:46 - Clicking on Patients Tab
+                                     2018-04-08 23:10:01 INFO  AdminTests.java:49 - Search By SSN :: 667990098
+                                     2018-04-08 23:10:01 INFO  AdminTests.java:52 - Clicking the Patient FirtName :: Roger
+                                     2018-04-08 23:10:43 INFO  AdminTests.java:55 - Scheduled appointment for Patient FirtName :: Roger
+                                     2018-04-09 14:04:32 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-09 14:12:20 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-09 14:20:11 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-09 14:25:49 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-09 14:29:12 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-09 14:32:41 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-09 14:35:38 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-09 14:37:28 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-09 14:42:26 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-09 14:47:14 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-19 21:25:12 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-19 22:36:02 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-19 22:49:16 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-19 23:04:52 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-19 23:14:26 INFO  HomePage.java:21 - Setting the Driver Instance
+                                     2018-04-19 23:52:00 INFO  AdminTests.java:64 - Browser Opened Successfully
+                                     2018-04-19 23:52:11 INFO  AdminTests.java:73 - Admin Login Successful
+                                     2018-04-19 23:52:12 INFO  AdminTests.java:76 - Clicking on Patients Tab
+                                     2018-04-19 23:52:13 INFO  AdminTests.java:79 - Search By SSN :: 667990098
+                                     2018-04-19 23:52:13 INFO  AdminTests.java:82 - Clicking the Patient FirtName :: Roger
+                                     2018-04-19 23:52:54 INFO  AdminTests.java:85 - Scheduled appointment for Patient FirtName :: Roger
+                                     2018-04-19 23:58:43 INFO  AdminTests.java:64 - Browser Opened Successfully
+                                     2018-04-19 23:58:54 INFO  AdminTests.java:73 - Admin Login Successful
+                                     2018-04-19 23:58:55 INFO  AdminTests.java:76 - Clicking on Patients Tab
+                                     2018-04-19 23:58:56 INFO  AdminTests.java:79 - Search By SSN :: 667990098
+                                     2018-04-19 23:58:56 INFO  AdminTests.java:82 - Clicking the Patient FirtName :: Roger
+                                     2018-04-19 23:59:36 INFO  AdminTests.java:85 - Scheduled appointment for Patient FirtName :: Roger
+                                     2018-04-20 00:15:46 INFO  AdminTests.java:64 - Browser Opened Successfully
+                                     2018-04-20 00:15:58 INFO  AdminTests.java:73 - Admin Login Successful
+                                     2018-04-20 00:15:59 INFO  AdminTests.java:76 - Clicking on Patients Tab
+                                     2018-04-20 00:15:59 INFO  AdminTests.java:79 - Search By SSN :: 667990098
+                                     2018-04-20 00:16:00 INFO  AdminTests.java:82 - Clicking the Patient FirtName :: Roger
+                                     2018-04-20 00:16:41 INFO  AdminTests.java:85 - Scheduled appointment for Patient FirtName :: Roger
+                                     2018-04-20 11:42:26 INFO  AdminTests.java:46 - Browser Opened Successfully
+                                     2018-04-20 12:10:27 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-20 12:32:15 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-20 12:32:25 INFO  AdminTests.java:53 - Admin Login Successful
+                                     2018-04-20 12:32:26 INFO  AdminTests.java:83 - Clicking on Patients Tab
+                                     2018-04-20 12:32:27 INFO  AdminTests.java:86 - Search By SSN :: 667990098
+                                     2018-04-20 12:32:27 INFO  AdminTests.java:89 - Clicking the Patient FirtName :: Roger
+                                     2018-04-20 12:33:05 INFO  AdminTests.java:95 - Scheduled appointment for Patient FirtName :: Roger
+                                     2018-04-20 12:33:06 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-20 12:33:07 INFO  AdminTests.java:53 - Admin Login Successful
+                                     2018-04-20 12:33:40 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-20 12:33:42 INFO  AdminTests.java:53 - Admin Login Successful
+                                     2018-04-20 12:33:50 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-20 12:33:51 INFO  AdminTests.java:53 - Admin Login Successful
+                                     2018-04-20 12:34:01 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-20 12:34:03 INFO  AdminTests.java:53 - Admin Login Successful
+                                     2018-04-20 13:11:21 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 13:11:31 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 13:11:33 INFO  AdminTests.java:87 - Clicking on Patients Tab
+                                     2018-04-20 13:11:33 INFO  AdminTests.java:90 - Search By SSN :: 667990098
+                                     2018-04-20 13:11:34 INFO  AdminTests.java:93 - Clicking the Patient FirtName :: Roger
+                                     2018-04-20 13:12:04 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 13:12:06 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 13:12:39 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 13:12:41 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 13:12:49 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 13:12:51 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 13:13:01 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 13:13:02 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 13:23:49 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 13:24:00 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 13:24:02 INFO  AdminTests.java:87 - Clicking on Patients Tab
+                                     2018-04-20 13:24:02 INFO  AdminTests.java:90 - Search By SSN :: 667990098
+                                     2018-04-20 13:24:03 INFO  AdminTests.java:93 - Clicking the Patient FirtName :: Roger
+                                     2018-04-20 13:24:34 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 13:24:36 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 13:25:09 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:21:28 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:21:39 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:21:40 INFO  AdminTests.java:100 - Clicking on Claim Center Tab
+                                     2018-04-20 14:21:41 INFO  AdminTests.java:104 - Clicking the Patient FirtName :: Roger
+                                     2018-04-20 14:21:56 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:21:57 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:21:58 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:22:45 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:22:46 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:22:47 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:22:55 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:22:56 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:22:57 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:31:55 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:32:05 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:32:06 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:32:51 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:32:53 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:32:54 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:33:02 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:33:03 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:33:04 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:38:07 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:38:18 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:38:19 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:39:05 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:39:06 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:39:07 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:39:14 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:39:15 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:39:16 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:52:20 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:52:31 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:52:32 INFO  AdminTests.java:100 - Clicking on Claim Center Tab
+                                     2018-04-20 14:52:32 INFO  AdminTests.java:104 - Clicking the Patient FirtName :: Roger
+                                     2018-04-20 14:52:47 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:52:49 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:52:50 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:53:35 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:53:36 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:53:37 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:53:44 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:53:45 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:53:46 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-20 14:53:55 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-20 14:53:56 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-20 14:53:57 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-21 13:17:18 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-21 13:17:28 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-21 13:17:29 INFO  AdminTests.java:100 - Clicking on Claim Center Tab
+                                     2018-04-21 13:17:30 INFO  AdminTests.java:104 - Clicking the Patient FirtName :: Roger
+                                     2018-04-21 13:17:44 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-21 13:17:45 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-21 13:17:46 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-21 13:18:29 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-21 13:18:30 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-21 13:18:31 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-21 13:18:37 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-21 13:18:38 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-21 13:18:39 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-21 13:18:47 INFO  AdminTests.java:48 - Browser Opened Successfully
+                                     2018-04-21 13:18:48 INFO  AdminTests.java:57 - Admin Login Successful
+                                     2018-04-21 13:18:48 INFO  AdminTests.java:81 - Search By SSN :: 667990098
+                                     2018-04-21 17:22:05 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-21 17:22:15 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-21 17:22:16 INFO  AdminTests.java:99 - Clicking on Claim Center Tab
+                                     2018-04-21 17:22:17 INFO  AdminTests.java:103 - Clicking the Patient FirtName :: Roger
+                                     2018-04-21 17:22:31 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-21 17:22:32 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-21 17:22:32 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-21 17:23:16 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-21 17:23:17 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-21 17:23:18 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-21 17:23:24 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-21 17:23:25 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-21 17:23:25 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-21 17:23:34 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-21 17:23:34 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-21 17:23:35 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     

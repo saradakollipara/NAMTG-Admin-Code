@@ -1,0 +1,1 @@
+{"uuid":"6a51cf88-3482-4ca2-a7c2-e81244fe153d","name":"org.iit.mmp.admin.tests.AdminTests.setUp","description":"","start":1524191762203,"stop":1524191762217,"children":["ab52b05d-6b6d-4b27-a19a-4e10b2a5628c"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1524191762203,"stop":1524191762206}]}
