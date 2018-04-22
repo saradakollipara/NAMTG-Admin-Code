@@ -19,6 +19,9 @@
   <parameter name="doj" value="April/28/2018"/>
   <parameter name="adminPassword" value="Thomas@111"/>
   <parameter name="patFName" value="Roger"/>
+  <listeners>
+    <listener class-name="org.iit.mmp.util.ExtentReporterNG"/>
+  </listeners>
   <test name="AdminTests(failed)">
     <parameter name="reportName" value="Roger&#039;s Report"/>
     <parameter name="expTime" value="11AM"/>

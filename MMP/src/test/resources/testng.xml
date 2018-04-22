@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
+
+<listeners>
+	<listener class-name="org.iit.mmp.util.ExtentReporterNG" />
+</listeners>
  <!--  <test name="PatientTests" verbose="5">
   <parameter name="browserType" value="CH"/>
   <parameter name="url" value="http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/" />
@@ -12,6 +16,7 @@
       <class name="org.iit.mmp.patient.tests.PatientTests"/>
     </classes>
   </test> Test -->
+  
   
   <test name="AdminTests" verbose="5">
   <parameter name="browserType" value="CH"/>

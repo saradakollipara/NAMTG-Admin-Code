@@ -20,7 +20,7 @@ public class AdminNavigationPage {
 	public boolean validateAdminPage() {
 		String pageSource = driver.getPageSource();
 		Boolean status = pageSource.contains("Admin Portal");
-		System.out.println("@@@@@@@@@@@@  Status of Admin @@@@@@@@@@@" + status); 
+		System.out.println("*************  Admin Validated  *********** "); 
 		return status;
 		
 	}

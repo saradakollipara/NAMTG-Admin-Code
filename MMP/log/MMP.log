@@ -244,4 +244,66 @@
                                      2018-04-21 17:23:34 INFO  AdminTests.java:47 - Browser Opened Successfully
                                      2018-04-21 17:23:34 INFO  AdminTests.java:56 - Admin Login Successful
                                      2018-04-21 17:23:35 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 15:12:41 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:12:51 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:12:52 INFO  AdminTests.java:99 - Clicking on Claim Center Tab
+                                     2018-04-22 15:12:53 INFO  AdminTests.java:103 - Clicking the Patient FirtName :: Roger
+                                     2018-04-22 15:13:08 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:13:09 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:13:10 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 15:13:55 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:13:56 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:13:57 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 15:14:04 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:14:05 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:14:06 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 15:14:15 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:14:16 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:14:17 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 15:17:57 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:18:08 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:18:10 INFO  AdminTests.java:99 - Clicking on Claim Center Tab
+                                     2018-04-22 15:18:11 INFO  AdminTests.java:103 - Clicking the Patient FirtName :: Roger
+                                     2018-04-22 15:18:26 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:18:28 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:18:29 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 15:19:14 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:19:15 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:19:16 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 15:19:23 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:19:25 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:19:26 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 15:19:35 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:45:52 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:46:02 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:46:04 INFO  AdminTests.java:99 - Clicking on Claim Center Tab
+                                     2018-04-22 15:46:06 INFO  AdminTests.java:103 - Clicking the Patient FirtName :: Roger
+                                     2018-04-22 15:46:22 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:46:23 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:46:24 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 15:47:09 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:47:10 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:47:10 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 15:47:17 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:47:18 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:47:19 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 15:47:28 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 15:47:29 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 15:47:30 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 17:47:44 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 17:47:54 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 17:47:55 INFO  AdminTests.java:99 - Clicking on Claim Center Tab
+                                     2018-04-22 17:47:56 INFO  AdminTests.java:103 - Clicking the Patient FirtName :: Roger
+                                     2018-04-22 17:48:10 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 17:48:11 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 17:48:11 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 17:48:55 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 17:48:56 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 17:48:56 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 17:49:03 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 17:49:04 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 17:49:04 INFO  AdminTests.java:80 - Search By SSN :: 667990098
+                                     2018-04-22 17:49:12 INFO  AdminTests.java:47 - Browser Opened Successfully
+                                     2018-04-22 17:49:13 INFO  AdminTests.java:56 - Admin Login Successful
+                                     2018-04-22 17:49:14 INFO  AdminTests.java:80 - Search By SSN :: 667990098
                                      
