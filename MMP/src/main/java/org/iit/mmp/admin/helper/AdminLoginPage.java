@@ -11,7 +11,6 @@ public class AdminLoginPage {
 
 	WebDriver driver;
 
-
 	By adminLogin      =  By.linkText("Office Login");
 	By loginLink       =  By.xpath("//h4[contains(text(),'doctor')]/parent::div/descendant::a[text()='Login']");
 	By userName        =  By.xpath("//input[@id='username']");

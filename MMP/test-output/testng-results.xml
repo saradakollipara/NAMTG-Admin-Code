@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="2" total="5" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="141985" started-at="2018-04-20T18:52:05Z" finished-at="2018-04-20T18:54:27Z">
+  <suite name="Suite" duration-ms="132559" started-at="2018-04-22T21:47:32Z" finished-at="2018-04-22T21:49:44Z">
     <groups>
     </groups>
-    <test name="AdminTests" duration-ms="141985" started-at="2018-04-20T18:52:05Z" finished-at="2018-04-20T18:54:27Z">
+    <test name="AdminTests" duration-ms="132559" started-at="2018-04-22T21:47:32Z" finished-at="2018-04-22T21:49:44Z">
       <class name="org.iit.mmp.admin.tests.AdminTests">
-        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setup" is-config="true" duration-ms="14556" started-at="2018-04-20T14:52:05Z" finished-at="2018-04-20T14:52:20Z">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="setup" is-config="true" duration-ms="12133" started-at="2018-04-22T17:47:32Z" finished-at="2018-04-22T17:47:44Z">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setUp" is-config="true" duration-ms="10893" started-at="2018-04-20T14:52:20Z" description="Validate Admin Login to the Application" finished-at="2018-04-20T14:52:31Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="setUp" is-config="true" duration-ms="10672" started-at="2018-04-22T17:47:44Z" description="Validate Admin Login to the Application" finished-at="2018-04-22T17:47:54Z">
           <params>
             <param index="0">
               <value>
@@ -44,7 +44,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="validateSubmitClaimTest(java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="validateSubmitClaimTest" duration-ms="16262" started-at="2018-04-20T14:52:31Z" description="Schedule an appointment with Doctor" finished-at="2018-04-20T14:52:47Z">
+        <test-method status="FAIL" signature="validateSubmitClaimTest(java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="validateSubmitClaimTest" duration-ms="15454" started-at="2018-04-22T17:47:54Z" description="Schedule an appointment with Doctor" finished-at="2018-04-22T17:48:10Z">
           <params>
             <param index="0">
               <value>
@@ -64,11 +64,11 @@
             <full-stacktrace>
               <![CDATA[java.lang.AssertionError: Unable to Submit the Claim
 	at org.testng.Assert.fail(Assert.java:94)
-	at org.iit.mmp.admin.tests.AdminTests.validateSubmitClaimTest(AdminTests.java:116)
+	at org.iit.mmp.admin.tests.AdminTests.validateSubmitClaimTest(AdminTests.java:115)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
@@ -95,7 +95,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSubmitClaimTest -->
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setUp" is-config="true" duration-ms="1650" started-at="2018-04-20T14:52:47Z" description="Validate Admin Login to the Application" finished-at="2018-04-20T14:52:49Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="setUp" is-config="true" duration-ms="1069" started-at="2018-04-22T17:48:10Z" description="Validate Admin Login to the Application" finished-at="2018-04-22T17:48:11Z">
           <params>
             <param index="0">
               <value>
@@ -116,7 +116,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="createPatientvisitTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="createPatientvisitTest" duration-ms="45557" started-at="2018-04-20T14:52:49Z" description="Create Patient Visit" finished-at="2018-04-20T14:53:34Z">
+        <test-method status="PASS" signature="createPatientvisitTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="createPatientvisitTest" duration-ms="43924" started-at="2018-04-22T17:48:11Z" description="Create Patient Visit" finished-at="2018-04-22T17:48:55Z">
           <params>
             <param index="0">
               <value>
@@ -152,7 +152,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createPatientvisitTest -->
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setUp" is-config="true" duration-ms="1658" started-at="2018-04-20T14:53:34Z" description="Validate Admin Login to the Application" finished-at="2018-04-20T14:53:36Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="setUp" is-config="true" duration-ms="956" started-at="2018-04-22T17:48:55Z" description="Validate Admin Login to the Application" finished-at="2018-04-22T17:48:56Z">
           <params>
             <param index="0">
               <value>
@@ -173,7 +173,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="addPresdescriptionTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="addPresdescriptionTest" duration-ms="7680" started-at="2018-04-20T14:53:36Z" description="Add Prescription to the patient" finished-at="2018-04-20T14:53:44Z">
+        <test-method status="PASS" signature="addPresdescriptionTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="addPresdescriptionTest" duration-ms="6734" started-at="2018-04-22T17:48:56Z" description="Add Prescription to the patient" finished-at="2018-04-22T17:49:03Z">
           <params>
             <param index="0">
               <value>
@@ -199,7 +199,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addPresdescriptionTest -->
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setUp" is-config="true" duration-ms="1374" started-at="2018-04-20T14:53:44Z" description="Validate Admin Login to the Application" finished-at="2018-04-20T14:53:45Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="setUp" is-config="true" duration-ms="964" started-at="2018-04-22T17:49:03Z" description="Validate Admin Login to the Application" finished-at="2018-04-22T17:49:04Z">
           <params>
             <param index="0">
               <value>
@@ -220,7 +220,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="createFeeMethodTest(java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="createFeeMethodTest" duration-ms="9303" started-at="2018-04-20T14:53:45Z" finished-at="2018-04-20T14:53:54Z">
+        <test-method status="PASS" signature="createFeeMethodTest(java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="createFeeMethodTest" duration-ms="8487" started-at="2018-04-22T17:49:04Z" finished-at="2018-04-22T17:49:12Z">
           <params>
             <param index="0">
               <value>
@@ -236,7 +236,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createFeeMethodTest -->
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="setUp" is-config="true" duration-ms="1632" started-at="2018-04-20T14:53:54Z" description="Validate Admin Login to the Application" finished-at="2018-04-20T14:53:56Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="setUp" is-config="true" duration-ms="1069" started-at="2018-04-22T17:49:12Z" description="Validate Admin Login to the Application" finished-at="2018-04-22T17:49:13Z">
           <params>
             <param index="0">
               <value>
@@ -257,7 +257,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="reportPageMethodTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="reportPageMethodTest" duration-ms="31181" started-at="2018-04-20T14:53:56Z" finished-at="2018-04-20T14:54:27Z">
+        <test-method status="FAIL" signature="reportPageMethodTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="reportPageMethodTest" duration-ms="30897" started-at="2018-04-22T17:49:13Z" finished-at="2018-04-22T17:49:44Z">
           <params>
             <param index="0">
               <value>
@@ -288,33 +288,33 @@
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"id","selector":"app_date"}
-  (Session info: chrome=65.0.3325.181)
+  (Session info: chrome=66.0.3359.117)
   (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
 System info: host: 'DESKTOP-L0JOL9N', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\sarada\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
-Session ID: a330c23f64a84bf4d8470ad86563e608
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\sarada\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.117, webStorageEnabled: true}
+Session ID: 427d558d91b4410472be5de690902bac
 *** Element info: {Using=id, value=app_date}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"app_date"}
-  (Session info: chrome=65.0.3325.181)
+  (Session info: chrome=66.0.3359.117)
   (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
 System info: host: 'DESKTOP-L0JOL9N', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\sarada\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
-Session ID: a330c23f64a84bf4d8470ad86563e608
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\sarada\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.117, webStorageEnabled: true}
+Session ID: 427d558d91b4410472be5de690902bac
 *** Element info: {Using=id, value=app_date}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
 	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
@@ -328,11 +328,11 @@ Session ID: a330c23f64a84bf4d8470ad86563e608
 	at org.openqa.selenium.By$ById.findElement(By.java:218)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
 	at org.iit.mmp.admin.pages.ReportsPage.reportPageMethod(ReportsPage.java:26)
-	at org.iit.mmp.admin.tests.AdminTests.reportPageMethodTest(AdminTests.java:247)
+	at org.iit.mmp.admin.tests.AdminTests.reportPageMethodTest(AdminTests.java:246)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
 	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
@@ -359,7 +359,7 @@ Session ID: a330c23f64a84bf4d8470ad86563e608
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportPageMethodTest -->
-        <test-method status="PASS" signature="closeApp()[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@19d37183]" name="closeApp" is-config="true" duration-ms="6" started-at="2018-04-20T14:54:27Z" finished-at="2018-04-20T14:54:27Z">
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:org.iit.mmp.admin.tests.AdminTests@6e75aa0d]" name="closeApp" is-config="true" duration-ms="1" started-at="2018-04-22T17:49:44Z" finished-at="2018-04-22T17:49:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->
